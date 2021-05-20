@@ -1,4 +1,5 @@
 ### Hi there 👋, I am Mickey Evans
+![Twitter Follow](https://img.shields.io/twitter/follow/MickeyEvans_?style=social)
 
 <!--
 **mue8010/mue8010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
