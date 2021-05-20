@@ -7,7 +7,7 @@ I have created scripts in SQL to query data, Python to build functions for autom
 
 When in school, I built my own website and have made slight modifications to it since. You can view that here: [My Website](https://sites.google.com/g.rit.edu/mickey/), which was made through Google Sites and is considered a fairly low code solution.
 
- <img src="https://github.com/devicons/devicon/tree/master/icons/chrome" alt="Chrome logo" width="50" height="50" /
+ <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/chrome/chrome-original.svg" alt="Chrome logo" width="50" height="50" /
 
 <!--
 **mue8010/mue8010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
