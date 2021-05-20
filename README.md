@@ -1,10 +1,9 @@
 ### Hi there 👋, I am Mickey Evans
 ![Twitter Follow](https://img.shields.io/twitter/follow/MickeyEvans_?style=social)
 
-Graduate from Rochester Institute of Technology working as an Auditor & Software Engineer @ Goldman Sachs
+Graduate from Rochester Institute of Technology working as an Auditor & Software Engineer @ Goldman Sachs. I create internal tools to help my team, audit against software vulnerabilities, and cover/mitigate against varying control risk (SDLC, Privacy, and Access & Entitlements) within the firm. 
 
-I create internal tools, audit against software and risk within the firm. I have created content in SQL, Python, R. 
-I'm confident reading and writing code and have worked with reading and interpretation of Java, Shell Scripting, and other languages such as those listed above.
+I have created scripts in SQL to query data, Python to build functions for automation of certain tasks, have used R to perform analytics and make visualizations. I'm confident reading and writing code and have worked to read and interpret Java, Shell Scripting scripts, and other languages such as those listed above.
 
 When in school, I built my own website and have made slight modifications to it since. You can view that here: [My Website](https://sites.google.com/g.rit.edu/mickey/), which was made through Google Sites and is considered a fairly low code solution.
 
