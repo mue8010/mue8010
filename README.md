@@ -20,7 +20,10 @@ When in school, I built my own website and have made slight modifications to it 
 
 ## Interests Include
 <img src="https://cdn.worldvectorlogo.com/logos/buffalo-bills-4.svg" alt="Bills logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/tesla-9.svg" alt="Tesla logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/gold-s-gym.svg" alt="Golds Gym Logo" width="50" height="50" /> 
- 
+
+---
+
+[![Mickey's GitHub stats](https://github-readme-stats.vercel.app/api?username=mue8010)](https://github.com/mue8010/github-readme-stats)
 
  
 <!--
