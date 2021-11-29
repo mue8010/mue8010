@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Mickey Evans
-![Twitter Follow](https://img.shields.io/twitter/follow/MickeyEvans_?style=social)[https://github.com/mue8010/github-readme-stats]
+[![Twitter Follow](https://img.shields.io/twitter/follow/MickeyEvans_?style=social)](https://twitter.com/MickeyEvans_)
 
 Graduate from Rochester Institute of Technology working as a Data Analyst @ Goldman Sachs. 
 I have created scripts in SQL to query data, Python to build functions for automation of certain tasks, have used R to perform analytics & make visualizations. 
