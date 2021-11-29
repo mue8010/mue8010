@@ -2,9 +2,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/MickeyEvans_?style=social)](https://twitter.com/MickeyEvans_)
 
 Graduate from Rochester Institute of Technology working as a Data Analyst @ Goldman Sachs. 
-I have created scripts in SQL to query data, Python to build functions for automation of certain tasks, have used R to perform analytics & make visualizations. 
+I have created scripts in SQL to query data, Python to build applications for task automation, visualizations and analytics using R. 
 
-In school, I built my own website and have made slight modifications to it since. You can view that here: [My Website](https://sites.google.com/g.rit.edu/mickey/), which was made through Google Sites and is considered a fairly low code solution.
+In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mickey/) using Google Sites, a low/no-code solution, similar to that of a wordpress. 
 
 ## Working Knowledge
 <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" 
