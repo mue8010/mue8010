@@ -1,8 +1,11 @@
-### Hi there 👋, I am Mickey Evans
+### Hi there 👋, I am Mickey Evans (Pronouns: He/Him/His)
 [![Twitter Follow](https://img.shields.io/twitter/follow/MickeyEvans_?style=social)](https://twitter.com/MickeyEvans_)
 
-Graduate from Rochester Institute of Technology (RIT) working as a Data Analyst @ Goldman Sachs. 
-I've created apps using Python, was an end-user querying data using Sybase/PostGRES SQL, and performed certain ETL automation tasks. Some of my other work consists of data visualizations and analytics using R/Python. 
+## 🔭 What I’m currently working on & Background ...
+ - I'm working as a working as a Data Analyst @ Goldman Sachs.
+ - I've created apps using Python, was an end-user querying data using Sybase/PostGRES SQL, and automated tasks using ETL.
+ - My other work includes of data visualizations & audit end-user analytics using R/Python.
+ - Graduated Bachelors & Masters in 2019 from Rochester Institute of Technology (RIT). 
 
 In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mickey/) using Google Sites, a low/no-code solution, similar to that of a wordpress. 
 
@@ -22,36 +25,35 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
 					alt="JIRA logo" width="50" height="50" /> 
 <img src="https://user-images.githubusercontent.com/35714965/147426234-14fb37ce-06fd-4034-8d7a-d5482771c6c0.png" 
 					alt="Git Logo" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/35714965/147507200-2e29b7b0-4a98-4b2a-be64-ef1f71cb1fd2.png" 
+					alt="Databases" width="50" height="50" />
+
 -----
-## Next Up
+## 🌱 I’m currently learning ...
 <img src="https://user-images.githubusercontent.com/35714965/147426312-bd8fce45-48e7-47af-83eb-d1e08d768983.png" 
 					alt="AWS logo" width="50" height="50" /> 
 <img src="https://user-images.githubusercontent.com/35714965/147426260-5ab45a8a-a690-4818-b54e-87b456fa97ed.png" 
 					alt="Kubernetes" width="50" height="50" /> 
 -----
-## Interests Include
+## ⚡ Interests Include & Fun Fact:
 <img src="https://cdn.worldvectorlogo.com/logos/buffalo-bills-4.svg" 
 					alt="Bills logo" width="50" height="50" /> 
 <img src="https://user-images.githubusercontent.com/35714965/147426524-d5467741-efe8-4fc7-b499-13afec427778.png" 
 					alt="Tesla logo" width="50" height="50" /> 
 <img src="https://user-images.githubusercontent.com/35714965/147426471-ccb11d8a-caeb-42be-948c-ec941ccb3d7d.png" 
 					alt="Gym Logo" width="50" height="50" /> 
+					
+**Fun Fact**: I currently can jump rope around 120 jumps per minute, while jumping rope backwards and won a contest in 2012 for it!
+
+## 📫 How to reach me: 
+Please feel free to email me for opportunities at mickey.evans716@gmail.com. 
 
 -----
 [![Mickey's GitHub stats](https://github-readme-stats.vercel.app/api?username=mue8010)](https://github.com/mue8010/github-readme-stats)
 
- 
+
 <!--
-**mue8010/mue8010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- : ...
 -->
