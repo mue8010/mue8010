@@ -6,28 +6,30 @@
  - I've created apps using Python, was an end-user querying data using Sybase/PostGRES SQL, and automated tasks using ETL.
  - My other work includes of data visualizations & audit end-user analytics using R/Python.
  - Graduated Bachelors & Masters in 2019 from Rochester Institute of Technology (RIT).
- - Periodically, I work to solve Advent of Code.
+ - Periodically, I work to solve problems posted on [Advent of Code](https://adventofcode.com/).
 
 In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mickey/) using Google Sites, a low/no-code solution, similar to that of a wordpress. 
 
 -----
 ## Working Knowledge
-<img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" 
-					alt="Chrome logo" width="50" height="50" />			
-<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" 
-					alt="Confluence logo" width="50" height="50" /> 
+<img src="https://user-images.githubusercontent.com/35714965/147509321-4e06e4cd-aee2-4617-9022-76fa0d9a1920.png" 
+					alt="Python" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" 
 					alt="GitLab logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" 
+					alt="Confluence logo" width="50" height="50" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" 
 					alt="Jupyter logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" 
+					alt="Chrome logo" width="50" height="50" />			
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" 
 					alt="LinkedIn logo" width="50" height="50" /> 
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" 
 					alt="JIRA logo" width="50" height="50" /> 
 <img src="https://user-images.githubusercontent.com/35714965/147426234-14fb37ce-06fd-4034-8d7a-d5482771c6c0.png" 
-					alt="Git Logo" width="50" height="50" />
-<img src="https://user-images.githubusercontent.com/35714965/147507200-2e29b7b0-4a98-4b2a-be64-ef1f71cb1fd2.png" 
-					alt="Databases" width="50" height="50" />
+					alt="GIT Logo" width="50" height="50" />
+<img src="https://user-images.githubusercontent.com/35714965/147509156-63a8a734-1657-450f-9611-63acf0a05015.png" 
+					alt="SQL" width="100" height="50" />
 
 -----
 ## 🌱 I’m currently learning ...
