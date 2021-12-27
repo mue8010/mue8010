@@ -5,7 +5,8 @@
  - I'm working as a working as a Data Analyst @ Goldman Sachs.
  - I've created apps using Python, was an end-user querying data using Sybase/PostGRES SQL, and automated tasks using ETL.
  - My other work includes of data visualizations & audit end-user analytics using R/Python.
- - Graduated Bachelors & Masters in 2019 from Rochester Institute of Technology (RIT). 
+ - Graduated Bachelors & Masters in 2019 from Rochester Institute of Technology (RIT).
+ - Periodically, I work to solve Advent of Code.
 
 In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mickey/) using Google Sites, a low/no-code solution, similar to that of a wordpress. 
 
