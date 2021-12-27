@@ -3,7 +3,7 @@
 
 ## 🔭 What I’m currently working on & Background ...
  - I'm working as a Data Analyst @ Goldman Sachs.
- - I've created apps using Python, was an end-user querying data using Sybase/PostGRES SQL, and automated tasks using ETL.
+ - I've created apps using Python, was an end-user querying data using Sybase SQL, and automated tasks using ETL.
  - My other work includes of data visualizations & audit end-user analytics using R/Python.
  - Graduated Bachelors & Masters in 2019 from Rochester Institute of Technology (RIT).
  - Periodically, I work to solve problems posted on [Advent of Code](https://adventofcode.com/).
