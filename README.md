@@ -3,9 +3,9 @@
 
 ## 🔭 What I’m currently working on & Background ...
  - I'm working as a Data Analyst @ Goldman Sachs.
- - I've created apps using Python, was an end-user querying data using Sybase SQL, and automated tasks using ETL.
+ - I've created apps using Python, was an end-user querying data using Sybase SQL, and process automation.
  - My other work includes of data visualizations & audit end-user analytics using R/Python.
- - Graduated Bachelors (Industrial & Systems Eng.) & Masters (Eng. Management) in 2019 from Rochester Institute of Technology (RIT).
+ - 2019  Rochester Institute of Technology (RIT) Graduate - Bachelors (Industrial & Systems Eng.) & Masters (Eng. Management).
 
 In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mickey/) using Google Sites, a low/no-code solution, similar to that of a wordpress. 
 
