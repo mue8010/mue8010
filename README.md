@@ -1,8 +1,6 @@
-### Hi there 👋, I am Mickey Evans (Pronouns: He/Him/His)
-[![Twitter Follow](https://img.shields.io/twitter/follow/MickeyEvans_?style=social)](https://twitter.com/MickeyEvans_)
-
-[![LinkedIn Connect](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/mickey-evans/)
-
+### Hi 👋, I am Mickey Evans (Pronouns: He/Him/His), feel free to connect with me: 
+[![Twitter Follow](https://img.icons8.com/plasticine/75/000000/twitter--v2.png)](https://twitter.com/MickeyEvans_)
+[![LinkedIn Connect](https://img.icons8.com/external-justicon-lineal-color-justicon/75/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png)](https://www.linkedin.com/in/mickey-evans/)
 
 ## 🔭 What I’m currently working on & Background ...
  - I'm working on Data Analytics @ Goldman Sachs.
@@ -24,8 +22,6 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
 					alt="Jupyter logo" width="50" height="50" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" 
 					alt="Chrome logo" width="50" height="50" />			
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" 
-					alt="LinkedIn logo" width="50" height="50" /> 
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" 
 					alt="JIRA logo" width="50" height="50" /> 
 <img src="https://user-images.githubusercontent.com/35714965/147426234-14fb37ce-06fd-4034-8d7a-d5482771c6c0.png" 
