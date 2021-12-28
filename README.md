@@ -2,7 +2,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/MickeyEvans_?style=social)](https://twitter.com/MickeyEvans_)
 
 ## 🔭 What I’m currently working on & Background ...
- - I'm working as a Data Analyst @ Goldman Sachs.
+ - I'm working on Data Analytics @ Goldman Sachs.
  - I've created apps using Python, was an end-user querying data using Sybase SQL, and process automation.
  - My other work includes of data visualizations & audit end-user analytics using R/Python.
  - 2019  Rochester Institute of Technology (RIT) Graduate - Bachelors (Industrial & Systems Eng.) & Masters (Eng. Management).
