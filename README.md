@@ -5,8 +5,7 @@
  - I'm working as a Data Analyst @ Goldman Sachs.
  - I've created apps using Python, was an end-user querying data using Sybase SQL, and automated tasks using ETL.
  - My other work includes of data visualizations & audit end-user analytics using R/Python.
- - Graduated Bachelors & Masters in 2019 from Rochester Institute of Technology (RIT).
- - Periodically, I work to solve problems posted on [Advent of Code](https://adventofcode.com/).
+ - Graduated Bachelors (Industrial & Systems Eng.) & Masters (Eng. Management) in 2019 from Rochester Institute of Technology (RIT).
 
 In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mickey/) using Google Sites, a low/no-code solution, similar to that of a wordpress. 
 
@@ -38,7 +37,7 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
 <img src="https://user-images.githubusercontent.com/35714965/147426260-5ab45a8a-a690-4818-b54e-87b456fa97ed.png" 
 					alt="Kubernetes" width="50" height="50" /> 
 -----
-## ⚡ Interests Include & Fun Fact:
+## ⚡ Interests Include & Fun Fact(s):
 <img src="https://cdn.worldvectorlogo.com/logos/buffalo-bills-4.svg" 
 					alt="Bills logo" width="50" height="50" /> 
 <img src="https://user-images.githubusercontent.com/35714965/147426524-d5467741-efe8-4fc7-b499-13afec427778.png" 
@@ -46,7 +45,9 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
 <img src="https://user-images.githubusercontent.com/35714965/147426471-ccb11d8a-caeb-42be-948c-ec941ccb3d7d.png" 
 					alt="Gym Logo" width="50" height="50" /> 
 					
-**Fun Fact**: I currently can jump rope around 120 jumps per minute, while jumping rope backwards and won a contest in 2012 for it!
+ - **Fun Fact**: I currently can jump rope around 120 jumps per minute, while jumping rope backwards and won a contest in 2012 for it!
+ - Periodically, I work to solve problems posted on [Advent of Code](https://adventofcode.com/).
+
 
 ## 📫 How to reach me: 
 Please feel free to email me for opportunities at mickey.evans716@gmail.com. 
