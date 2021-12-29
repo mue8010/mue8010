@@ -1,4 +1,4 @@
-### Hi 👋, I am Mickey Evans (Pronouns: He/Him/His), feel free to connect with me: 
+### Hi 👋, I am Mickey Evans, feel free to connect with me: 
 [![Twitter Follow](https://img.icons8.com/plasticine/75/000000/twitter--v2.png)](https://twitter.com/MickeyEvans_)
 [![LinkedIn Connect](https://img.icons8.com/external-justicon-lineal-color-justicon/75/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png)](https://www.linkedin.com/in/mickey-evans/)
 
