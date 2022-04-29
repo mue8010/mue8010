@@ -4,7 +4,7 @@
 
 ## 🔭 What I’m currently working on & Background ...
  - I'm working on Data Analytics @ Goldman Sachs.
- - I've created apps using Python, was an end-user querying data using Sybase SQL, and process automation.
+ - I've created apps using Python, was an end-user querying data using MYSQL, and process automation.
  - My other work includes of data visualizations & audit end-user analytics using R/Python.
  - 2019 Graduate Rochester Institute of Technology (RIT) - Bachelors (Industrial & Systems Eng.) & Masters (Eng. Management).
 
