@@ -16,14 +16,11 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
 					alt="Python" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" 
 					alt="GitLab logo" width="50" height="50" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" 
-					alt="Confluence logo" width="50" height="50" /> 
+<img src="https://user-images.githubusercontent.com/35714965/166166515-456436c3-3cd4-4d33-a88b-fc4a9da00e05.png" alt="Atlassian logo" width="50" height="50" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" 
 					alt="Jupyter logo" width="50" height="50" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" 
 					alt="Chrome logo" width="50" height="50" />			
-<img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" 
-					alt="JIRA logo" width="50" height="50" /> 
 <img src="https://user-images.githubusercontent.com/35714965/147426234-14fb37ce-06fd-4034-8d7a-d5482771c6c0.png" 
 					alt="GIT Logo" width="50" height="50" />
 <img src="https://user-images.githubusercontent.com/35714965/147509156-63a8a734-1657-450f-9611-63acf0a05015.png" 
