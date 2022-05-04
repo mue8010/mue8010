@@ -23,8 +23,8 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
 					alt="Chrome logo" width="50" height="50" />			
 <img src="https://user-images.githubusercontent.com/35714965/147426234-14fb37ce-06fd-4034-8d7a-d5482771c6c0.png" 
 					alt="GIT Logo" width="50" height="50" />
-<img src="https://user-images.githubusercontent.com/35714965/147509156-63a8a734-1657-450f-9611-63acf0a05015.png" 
-					alt="SQL" width="100" height="50" />
+<img src="https://user-images.githubusercontent.com/35714965/166618370-ecad44ce-ab25-47b8-81cc-a5216e1ae1a0.png" 
+					alt="SQL" width="50" height="50" />
 
 -----
 ## 🌱 I’m currently learning ...
