@@ -9,9 +9,9 @@
  - My other work includes of data visualizations & audit end-user analytics using R/Python.
  - 2019 Graduate Rochester Institute of Technology (RIT) - Bachelors (Industrial & Systems Eng.) & Masters (Eng. Management).
 
-[![Mickey's GitHub stats](https://github-readme-stats.vercel.app/api?username=mue8010)](https://github.com/mue8010/github-readme-stats)
-
 In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mickey/) using Google Sites, a low/no-code solution, similar to that of a wordpress. 
+
+[![Mickey's GitHub stats](https://github-readme-stats.vercel.app/api?username=mue8010)](https://github.com/mue8010/github-readme-stats)
 
 -----
 ## Working Knowledge
