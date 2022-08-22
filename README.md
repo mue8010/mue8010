@@ -35,6 +35,9 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
 					alt="AWS logo" width="50" height="50" /> 
 <img src="https://user-images.githubusercontent.com/35714965/147426260-5ab45a8a-a690-4818-b54e-87b456fa97ed.png" 
 					alt="Kubernetes" width="50" height="50" /> 
+[![image](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/mue8010/)
+
+
 -----
 ## ⚡ Interests Include & Fun Fact(s):
 <img src="https://cdn.worldvectorlogo.com/logos/buffalo-bills-4.svg" 
