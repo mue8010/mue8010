@@ -7,7 +7,7 @@
  - I'm working on Data Analytics as a data scientist and technical product owner.
  - I've created apps using Python, was an end-user querying data using MYSQL, and process automation.
  - My other work includes of data visualizations & audit end-user analytics using R/Python.
- - 2019 Graduate Rochester Institute of Technology (RIT) - Bachelors (Industrial & Systems Eng.) & Masters (Eng. Management).
+ - Rochester Institute of Technology 2019 (RIT) - Bachelors (Industrial & Systems Eng.) & Masters (Eng. Management).
 
 In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mickey/) using Google Sites, a low/no-code solution, similar to that of a wordpress. 
 
