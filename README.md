@@ -36,7 +36,8 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
 <img src="https://user-images.githubusercontent.com/35714965/147426260-5ab45a8a-a690-4818-b54e-87b456fa97ed.png" 
 					alt="Kubernetes" width="50" height="50" /> 
 [![image](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/mue8010/)
-
+[![image](https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/50/000000/external-hacker-terrorism-photo3ideastudio-lineal-color-photo3ideastudio.png)](https://tryhackme.com/p/mue8010/)
+[![image](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png)](https://www.hackerrank.com/mickey_evans716)
 
 -----
 ## ⚡ Interests Include & Fun Fact(s):
