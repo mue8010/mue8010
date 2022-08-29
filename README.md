@@ -1,7 +1,10 @@
-### Hi 👋, I am Mickey Evans, feel free to connect with me: 
-[![Twitter Follow](https://img.icons8.com/plasticine/75/000000/twitter--v2.png)](https://twitter.com/MickeyEvans_)
-[![LinkedIn Connect](https://img.icons8.com/external-justicon-lineal-color-justicon/75/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png)](https://www.linkedin.com/in/mickey-evans/)
-[![image](https://img.icons8.com/color/75/defined/tableau-software.png)](https://public.tableau.com/app/profile/mickey.evans)
+### Hi 👋, I am Mickey Evans, feel free to connect with me here: 
+[![Twitter Follow](https://img.icons8.com/plasticine/50/000000/twitter--v2.png)](https://twitter.com/MickeyEvans_)
+[![LinkedIn Connect](https://img.icons8.com/external-justicon-lineal-color-justicon/50/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png)](https://www.linkedin.com/in/mickey-evans/)
+[![image](https://img.icons8.com/color/50/defined/tableau-software.png)](https://public.tableau.com/app/profile/mickey.evans)
+[![image](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/mue8010/)
+[![image](https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/50/000000/external-hacker-terrorism-photo3ideastudio-lineal-color-photo3ideastudio.png)](https://tryhackme.com/p/mue8010/)
+[![image](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png)](https://www.hackerrank.com/mickey_evans716)
 
 ## 🔭 What I’m currently working on & Background ...
  - I'm working on Data Analytics as a data scientist and technical product owner.
@@ -35,9 +38,6 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
 					alt="AWS logo" width="50" height="50" /> 
 <img src="https://user-images.githubusercontent.com/35714965/147426260-5ab45a8a-a690-4818-b54e-87b456fa97ed.png" 
 					alt="Kubernetes" width="50" height="50" /> 
-[![image](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png)](https://leetcode.com/mue8010/)
-[![image](https://img.icons8.com/external-photo3ideastudio-lineal-color-photo3ideastudio/50/000000/external-hacker-terrorism-photo3ideastudio-lineal-color-photo3ideastudio.png)](https://tryhackme.com/p/mue8010/)
-[![image](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png)](https://www.hackerrank.com/mickey_evans716)
 
 -----
 ## ⚡ Interests Include & Fun Fact(s):
