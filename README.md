@@ -9,7 +9,7 @@
 ## 🔭 What I’m currently working on & Background ...
  - I'm working on Data Analytics as a data scientist and technical product owner.
  - I've created apps using Python, was an end-user querying data using MYSQL, and process automation.
- - My other work includes of data visualizations & audit end-user analytics using R/Python.
+ - My other work includes data visualizations & audit end-user analytics using R/Python.
  - Rochester Institute of Technology 2019 (RIT) - Bachelors (Industrial & Systems Eng.) & Masters (Eng. Management).
 
 In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mickey/) using Google Sites, a low/no-code solution, similar to that of a wordpress. 
@@ -49,9 +49,5 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
 					alt="Gym Logo" width="50" height="50" /> 
 					
  - **Fun Fact**: I currently can jump rope around 120 jumps per minute, while jumping rope backwards and won a contest in 2012 for it!
- - Historically, in December I work to solve problems posted on [Advent of Code](https://adventofcode.com/).
-
-
-## 📫 How to reach me: 
-Please feel free to email me for opportunities at mickey.evans716@gmail.com. 
+ - Historically, in December, I worked to solve problems posted on [Advent of Code](https://adventofcode.com/).
 
