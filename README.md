@@ -10,9 +10,9 @@
  - I'm working on Data Analytics as a data scientist and technical product owner.
  - I've created apps using Python, was an end-user querying data using MYSQL, and process automation.
  - My other work includes data visualizations & audit end-user analytics using R/Python.
- - Rochester Institute of Technology 2019 (RIT) - Bachelors (Industrial & Systems Eng.) & Masters (Eng. Management).
+ - Rochester Institute of Technology 2019 (RIT) - Bachelor (Industrial & Systems Eng.) & Master (Eng. Management) Degrees.
 
-In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mickey/) using Google Sites, a low/no-code solution, similar to that of a wordpress. 
+In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mickey/) using Google Sites, a low/no-code solution, similar to that of WordPress. 
 
 [![Mickey's GitHub stats](https://github-readme-stats.vercel.app/api?username=mue8010)](https://github.com/mue8010/github-readme-stats)
 
@@ -31,7 +31,9 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
 					alt="GIT Logo" width="50" height="50" />
 <img src="https://user-images.githubusercontent.com/35714965/166618370-ecad44ce-ab25-47b8-81cc-a5216e1ae1a0.png" 
 					alt="SQL" width="50" height="50" />
-
+<img src="https://cdn-1.webcatalog.io/catalog/dataiku/dataiku-icon.png?v=1714774094461" 
+					alt="Dataiku Logo" width="50" height="50" />
+     
 -----
 ## 🌱 I’m currently learning ...
 <img src="https://user-images.githubusercontent.com/35714965/147426312-bd8fce45-48e7-47af-83eb-d1e08d768983.png" 
