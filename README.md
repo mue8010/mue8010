@@ -17,9 +17,13 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
 [![Mickey's GitHub stats](https://github-readme-stats.vercel.app/api?username=mue8010)](https://github.com/mue8010/github-readme-stats)
 
 ## Working Knowledge
-## Working Knowledge
-
-<img src="https://user-images.githubusercontent.com/35714965/147509321-4e06e4cd-aee2-4617-9022-76fa0d9a1920.png" alt="Python" width="50" height="50" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab logo" width="50" height="50" />&nbsp;<img src="https://user-images.githubusercontent.com/35714965/166166515-456436c3-3cd4-4d33-a88b-fc4a9da00e05.png" alt="Atlassian logo" width="50" height="50" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter logo" width="50" height="50" />&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="Chrome logo" width="50" height="50" />&nbsp;<img src="https://user-images.githubusercontent.com/35714965/147426234-14fb37ce-06fd-4034-8d7a-d5482771c6c0.png" alt="GIT Logo" width="50" height="50" />&nbsp;<img src="https://user-images.githubusercontent.com/35714965/166618370-ecad44ce-ab25-47b8-81cc-a5216e1ae1a0.png" alt="SQL" width="50" height="50" />&nbsp;<img src="https://cdn-1.webcatalog.io/catalog/dataiku/dataiku-icon.png?v=1714774094461" alt="Dataiku Logo" width="50" height="50" />
+ - Version Control Technologies: GitHub, GitLab, SVN
+ - Data Analysis: Excel, Python, Spark
+ - Languages: Python, SQL, SQL (Databases)
+ - Documentation: Confluence, JIRA, MS Word, SharePoint
+ - Low Code Solutions: Dataiku, JupyterHub
+ - Other Tooling: Docker (Containerization), CI/CD, Security, CRON
+ - Web Development: Streamlit
      
 -----
 ## 🌱 I’m currently learning ...
@@ -37,6 +41,8 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
 <img src="https://user-images.githubusercontent.com/35714965/147426471-ccb11d8a-caeb-42be-948c-ec941ccb3d7d.png" 
 					alt="Gym Logo" width="50" height="50" /> 
 					
- - **Fun Fact**: I currently can jump rope around 120 jumps per minute, while jumping rope backwards and won a contest in 2012 for it!
+**Fun Facts**:
+ - At my best, I could jump rope around 120 jumps per minute, backwards, and won a contest in 2012 for it!
+ - Ranked in the 99th percentile for strength during college with 1310 lbs combined across Squat (515), Deadlift (500), and Bench (295)
  - Historically, in December, I worked to solve problems posted on [Advent of Code](https://adventofcode.com/).
 
