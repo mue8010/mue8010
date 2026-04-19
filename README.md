@@ -16,9 +16,8 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
 
 [![Mickey's GitHub stats](https://github-readme-stats.vercel.app/api?username=mue8010)](https://github.com/mue8010/github-readme-stats)
 
------
 ## Working Knowledge
-<p>
+<div>
   <img src="https://user-images.githubusercontent.com/35714965/147509321-4e06e4cd-aee2-4617-9022-76fa0d9a1920.png" alt="Python" width="50" height="50" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" alt="GitLab logo" width="50" height="50" />
   <img src="https://user-images.githubusercontent.com/35714965/166166515-456436c3-3cd4-4d33-a88b-fc4a9da00e05.png" alt="Atlassian logo" width="50" height="50" />
@@ -27,7 +26,7 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
   <img src="https://user-images.githubusercontent.com/35714965/147426234-14fb37ce-06fd-4034-8d7a-d5482771c6c0.png" alt="GIT Logo" width="50" height="50" />
   <img src="https://user-images.githubusercontent.com/35714965/166618370-ecad44ce-ab25-47b8-81cc-a5216e1ae1a0.png" alt="SQL" width="50" height="50" />
   <img src="https://cdn-1.webcatalog.io/catalog/dataiku/dataiku-icon.png?v=1714774094461" alt="Dataiku Logo" width="50" height="50" />
-</p>
+</div>
      
 -----
 ## 🌱 I’m currently learning ...
