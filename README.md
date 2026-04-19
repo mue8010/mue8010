@@ -1,4 +1,4 @@
-### Hi 👋, I am Mickey Evans, feel free to connect with me here: 
+### Hi 👋, I am Mickey, feel free to connect with me here: 
 [![Twitter Follow](https://img.icons8.com/plasticine/50/000000/twitter--v2.png)](https://twitter.com/MickeyEvans_)
 [![LinkedIn Connect](https://img.icons8.com/external-justicon-lineal-color-justicon/50/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png)](https://www.linkedin.com/in/mickey-evans/)
 [![image](https://img.icons8.com/color/50/defined/tableau-software.png)](https://public.tableau.com/app/profile/mickey.evans)
