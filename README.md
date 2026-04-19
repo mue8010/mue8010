@@ -25,23 +25,12 @@ In school, I built a [portfolio website](https://sites.google.com/g.rit.edu/mick
  - Other Tooling: Docker (Containerization), CI/CD, Security, CRON
  - Web Development: Streamlit
      
------
 ## 🌱 I’m currently learning ...
-<img src="https://user-images.githubusercontent.com/35714965/147426312-bd8fce45-48e7-47af-83eb-d1e08d768983.png" 
-					alt="AWS logo" width="50" height="50" /> 
-<img src="https://user-images.githubusercontent.com/35714965/147426260-5ab45a8a-a690-4818-b54e-87b456fa97ed.png" 
-					alt="Kubernetes" width="50" height="50" /> 
+AWS, Kubernetes
 
------
 ## ⚡ Interests Include & Fun Fact(s):
-<img src="https://cdn.worldvectorlogo.com/logos/buffalo-bills-4.svg" 
-					alt="Bills logo" width="50" height="50" /> 
-<img src="https://user-images.githubusercontent.com/35714965/147426524-d5467741-efe8-4fc7-b499-13afec427778.png" 
-					alt="Tesla logo" width="50" height="50" /> 
-<img src="https://user-images.githubusercontent.com/35714965/147426471-ccb11d8a-caeb-42be-948c-ec941ccb3d7d.png" 
-					alt="Gym Logo" width="50" height="50" /> 
-					
-**Fun Facts**:
+ - I support Buffalo's major sports (Bills, Sabres)
+ - I periodically dig into energy and related energy policy to determine the best ways to promote sustainability 
  - At my best, I could jump rope around 120 jumps per minute, backwards, and won a contest in 2012 for it!
  - Ranked in the 99th percentile for strength during college with 1310 lbs combined across Squat (515), Deadlift (500), and Bench (295)
  - Historically, in December, I worked to solve problems posted on [Advent of Code](https://adventofcode.com/).
